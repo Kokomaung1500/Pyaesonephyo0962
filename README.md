@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KoKoMaung
-- 👀 I’m interested in Nocoding
-- 🌱 I’m currently learning Nothing
+- 👋 Hi, I’m @PyaeSonePhyo
+- 👀 I’m interested in Data Analytic and Data Science
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
